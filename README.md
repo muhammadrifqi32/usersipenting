@@ -1,11 +1,11 @@
 # usersipenting
 Ini adalah project proyek akhir kuliah saya yang berjudul "Aplikasi Pendeteksian Tingkat Kematangan Kelapa Sawit Berdasarkan Komposisi Warna Menggunakan Algoritma K-NN". Dengan aplikasi ini, kita bisa mengetahui apakah sawit yang telah dipanen layak untuk diolah dan diangkut ke pabrik atau tidak. Cukup dengan mengambil gambar, kemudian upload untuk mengetahui labelnya. Aplikasi ini menggunakan framework CodeIgniter. Algoritma yang digunakan pada aplikasi ini adalah K-Nearest Neighbor (K-NN) dan menggunakan metode ekstraksi ciri warna Red,Green and Blue (RGB).  Aplikasi usersipenting digunakan untuk memprediksi label. Nantinya aplikasi inilah yang akan diakses dalam bentuk webview application pada aplikasi android sipenting yang tersedia pada repositori github saya.
-------------------------------------------------------------------------------------------------------------------------------------------
+##########################################################################################################################################
 ALERT!
 repositori ini telah termasuk dengan database yang digunakan pada projek ini, nama filenya adalah admintbs.sql . Database ini digunakan untuk dua projek sekaligus, adminsipenting dan usersipenting.
-------------------------------------------------------------------------------------------------------------------------------------------
+##########################################################################################################################################
 
 This is the project of my college final project with the title is “Detection Application of Palm Oil Maturity Level Based on Color Composition Using the K-NN Algorithm”. With this application, we can know is the palm oil that have been harvested is worth to processed and carried to the factory or not. Just take the picture, then upload it to know the label. This application developed using CodeIgniter framework. The algorithm that’s used in this application is K-Nearest Neighbor (K-NN) and used RGB featured extraction. Usersipenting’s application later accessed in WebView application on the android application sipenting that available on my GitHub repositories
-------------------------------------------------------------------------------------------------------------------------------------------
+##########################################################################################################################################
 ALERT!
 this repository has been included with database that using for this project, the file named with admintbs.sql . The databased used for both project, adminsipenting and usersipenting.
